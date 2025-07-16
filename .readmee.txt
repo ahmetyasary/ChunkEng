@@ -1,0 +1,4 @@
+flutter run -d emulator-5554
+
+~/Library/Android/sdk/emulator/emulator -list-avds
+~/Library/Android/sdk/emulator/emulator -avd Pixel_Tablet_API_35 &
